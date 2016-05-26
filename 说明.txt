@@ -1,0 +1,7 @@
+使用方法：
+1、先安装VMware Workstation
+运行--MSCONFIG-停止所有[共三个]VMware的相关服务[暂时不要重启系统！]
+启动任务管理器，结束VMware所有进程[五个]
+2、解压unlock-all-v102.zip后，运行其中Windows目录下的install.cmd即可。[64位系统要以管理员身份运行]
+3、重启系统，再次运行MSCONFIG，打开VMware的相关服务[前面停止的三个]
+4、按系统提示操作，可能需要重新启动，照办就是！OK
